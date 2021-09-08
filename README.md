@@ -1,7 +1,6 @@
-# TEST
-=========
+# UDEMY Coursework
 
-## THIS IS A TEST
---------------------
+## Entry-Level JavaScript and a crash course of HTML/CSS
+---------------
 
-SERIOUSLY HOW DOES THIS WORK
+All that I learned from Jonas Schmedtmann's Course
